@@ -1,1 +1,1 @@
-## Debaraj Sarkar learning git commit mor MLOPS
+## Debaraj Sarkar learning git commit for MLOPS
